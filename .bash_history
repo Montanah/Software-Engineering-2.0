@@ -52,3 +52,10 @@ git push --set-upstream origin master
 exit
 ls
 rm -r zero_day
+cd Software-Engineering-2.0
+git push --set-upstream origin main
+vi hello.c
+gcc hello.c
+ls
+./a.out
+exit
