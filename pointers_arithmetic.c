@@ -22,7 +22,8 @@ int main(void)
 	p2 = a + 3;
 	*p2 = *p + 1337;
 	
-	printf("Value of a[1]: %d\n", p);
+	printf("Value of a[1]: %d\n", *(a + 1));
+	printf("Value of a[3]: %d\n", *(a + 3));
 
 	return (0);
 }
