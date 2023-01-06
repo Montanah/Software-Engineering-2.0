@@ -9,6 +9,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
+:q
 
 # Search String History (newest to oldest):
 
@@ -19,27 +20,544 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	)
 
 # File marks:
-'0  5  22  ~/Software-Engineering-2.0/hello.c
-'1  1  27  ~/zero_day/README.md
+'0  12  0  ~/Python3/oop_objvar.py
+'1  40  15  ~/Python3/oop_objvar.py
+'2  28  20  ~/Python3/oop_objvar.py
+'3  35  7  ~/Python3/oop_objvar.py
+'4  27  0  ~/Python3/oop_objvar.py
+'5  36  3  ~/Python3/oop_objvar.py
+'6  52  0  ~/Python3/oop_objvar.py
+'7  18  20  ~/Python3/oop_objvar.py
+'8  17  25  ~/Python3/oop_objvar.py
+'9  17  40  ~/Python3/oop_objvar.py
 
 # Jumplist (newest first):
--'  5  22  ~/Software-Engineering-2.0/hello.c
+-'  12  0  ~/Python3/oop_objvar.py
+-'  1  0  ~/Python3/oop_objvar.py
+-'  40  15  ~/Python3/oop_objvar.py
+-'  28  20  ~/Python3/oop_objvar.py
+-'  35  7  ~/Python3/oop_objvar.py
+-'  27  0  ~/Python3/oop_objvar.py
+-'  36  3  ~/Python3/oop_objvar.py
+-'  52  0  ~/Python3/oop_objvar.py
+-'  18  20  ~/Python3/oop_objvar.py
+-'  17  25  ~/Python3/oop_objvar.py
+-'  3  12  ~/Python3/oop_init.py
+-'  1  0  ~/Python3/oop_init.py
+-'  7  0  ~/Python3/oop_init.py
+-'  8  0  ~/Python3/oop_init.py
+-'  2  29  ~/Python3/oop_init.py
+-'  1  0  ~/Python3/oop_method.py
+-'  6  43  ~/Python3/oop_init.py
+-'  4  0  ~/Python3/oop_method.py
+-'  5  7  ~/oop_simplestclass.py
+-'  1  0  ~/oop_simplestclass.py
+-'  1  0  ~/image.csv
+-'  1  0  ~/Software-Engineering-2.0/pointers_arithmetic.c
+-'  11  31  ~/Software-Engineering-2.0/pad.c
+-'  1  0  ~/Software-Engineering-2.0/pad.c
+-'  15  17  ~/Software-Engineering-2.0/pad.c
+-'  18  0  ~/Software-Engineering-2.0/pad.c
+-'  17  8  ~/Software-Engineering-2.0/pad.c
+-'  1  0  ~/Software-Engineering-2.0/pa.c
+-'  16  12  ~/Software-Engineering-2.0/dsa.c
+-'  1  0  ~/Software-Engineering-2.0/dsa.c
+-'  14  50  ~/Software-Engineering-2.0/dsa.c
+-'  12  21  ~/Software-Engineering-2.0/dsa.c
+-'  12  17  ~/Software-Engineering-2.0/pa.c
+-'  16  8  ~/Software-Engineering-2.0/pa.c
+-'  22  0  ~/Software-Engineering-2.0/pa.c
+-'  10  29  ~/Software-Engineering-2.0/pa.c
+-'  21  19  ~/Software-Engineering-2.0/pa.c
+-'  17  42  ~/Software-Engineering-2.0/arrays.c
+-'  1  0  ~/Software-Engineering-2.0/arrays.c
+-'  9  22  ~/Software-Engineering-2.0/arrays.c
+-'  19  14  ~/Software-Engineering-2.0/arrays.c
+-'  1  0  ~/Software-Engineering-2.0/pointers.c
+-'  7  17  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  3  7  ~/Software-Engineering-2.0/hello.c
 -'  1  0  ~/Software-Engineering-2.0/hello.c
+-'  20  3  ~/Betty/Betty/betty
+-'  1  0  ~/Betty/Betty/betty
+-'  1  17  ~/Software-Engineering-2.0/structs.c
+-'  36  0  ~/Software-Engineering-2.0/structs.c
+-'  17  16  ~/Software-Engineering-2.0/printfscanf.c
+-'  1  0  ~/Software-Engineering-2.0/printfscanf.c
+-'  16  18  ~/Software-Engineering-2.0/printfscanf.c
+-'  18  0  ~/Software-Engineering-2.0/printfscanf.c
+-'  21  27  ~/Software-Engineering-2.0/printfscanf.c
+-'  23  1  ~/Software-Engineering-2.0/printfscanf.c
+-'  26  40  ~/Software-Engineering-2.0/pointers_arithmetic.c
+-'  25  40  ~/Software-Engineering-2.0/pointers_arithmetic.c
+-'  29  0  ~/Software-Engineering-2.0/pointers_arithmetic.c
+-'  27  0  ~/Software-Engineering-2.0/pointers_arithmetic.c
+-'  22  11  ~/Software-Engineering-2.0/pointers_arithmetic.c
+-'  1  0  ~/Personal_Portfolio/portfolio
+-'  29  0  ~/Software-Engineering-2.0/function_parameters.c
+-'  1  0  ~/Software-Engineering-2.0/function_parameters.c
+-'  28  44  ~/Software-Engineering-2.0/function_parameters.c
+-'  31  0  ~/Software-Engineering-2.0/function_parameters.c
+-'  27  9  ~/Software-Engineering-2.0/function_parameters.c
+-'  24  8  ~/Software-Engineering-2.0/function_parameters.c
+-'  25  75  ~/Software-Engineering-2.0/function_parameters.c
+-'  13  11  ~/Software-Engineering-2.0/pointers.c
+-'  16  9  ~/Software-Engineering-2.0/sizeof.c
+-'  1  0  ~/Software-Engineering-2.0/sizeof.c
+-'  5  22  ~/Software-Engineering-2.0/hello.c
 -'  1  27  ~/zero_day/README.md
+-'  1  27  ~/zero_day/README.md
+-'  1  27  ~/zero_day/README.md
+-'  1  27  ~/zero_day/README.md
+-'  16  9  ~/Software-Engineering-2.0/sizeof.c
+-'  1  0  ~/Software-Engineering-2.0/sizeof.c
+-'  1  27  ~/zero_day/README.md
+-'  1  27  ~/zero_day/README.md
+-'  1  27  ~/zero_day/README.md
+-'  1  27  ~/zero_day/README.md
+-'  16  9  ~/Software-Engineering-2.0/sizeof.c
+-'  1  0  ~/Software-Engineering-2.0/sizeof.c
+-'  1  27  ~/zero_day/README.md
+-'  1  27  ~/zero_day/README.md
+-'  1  27  ~/zero_day/README.md
+-'  1  27  ~/zero_day/README.md
+-'  16  9  ~/Software-Engineering-2.0/sizeof.c
+-'  1  0  ~/Software-Engineering-2.0/sizeof.c
+-'  1  27  ~/zero_day/README.md
+-'  1  27  ~/zero_day/README.md
+-'  1  27  ~/zero_day/README.md
+-'  1  27  ~/zero_day/README.md
+-'  16  9  ~/Software-Engineering-2.0/sizeof.c
+-'  1  0  ~/Software-Engineering-2.0/sizeof.c
 -'  1  27  ~/zero_day/README.md
 
 # History of marks within files (newest to oldest):
 
+> ~/Python3/oop_objvar.py
+	"	12	0
+	^	12	0
+	.	11	32
+	+	2	40
+	+	5	51
+	+	8	58
+	+	8	58
+	+	10	60
+	+	7	62
+	+	8	30
+	+	8	30
+	+	16	22
+	+	17	25
+	+	17	85
+	+	19	0
+	+	17	65
+	+	23	62
+	+	25	59
+	+	25	114
+	+	28	24
+	+	29	36
+	+	31	71
+	+	34	15
+	+	33	7
+	+	34	26
+	+	35	47
+	+	35	44
+	+	35	44
+	+	36	61
+	+	38	23
+	+	39	15
+	+	40	14
+	+	42	22
+	+	46	41
+	+	48	64
+	+	52	16
+	+	17	66
+	+	23	42
+	+	25	58
+	+	31	18
+	+	36	36
+	+	46	6
+	+	48	62
+	+	53	0
+	+	17	25
+	+	17	25
+	+	19	0
+	+	18	11
+	+	2	4
+	+	4	0
+	+	5	0
+	+	6	4
+	+	8	30
+	+	10	24
+	+	10	24
+	+	14	8
+	+	16	4
+	+	17	4
+	+	18	4
+	+	20	4
+	+	22	4
+	+	23	4
+	+	24	4
+	+	25	56
+	+	26	0
+	+	28	3
+	+	29	0
+	+	31	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	1	0
+	+	28	0
+	+	34	0
+	+	33	0
+	+	31	0
+	+	29	0
+	+	35	0
+	+	36	4
+	+	27	0
+	+	28	0
+	+	29	6
+	+	35	7
+	+	28	20
+	+	40	15
+	+	11	32
+
+> ~/Python3/oop_init.py
+	"	3	12
+	^	3	13
+	.	3	12
+	+	2	32
+	+	5	25
+	+	6	53
+	+	8	13
+	+	7	0
+	+	2	0
+	+	5	0
+	+	6	44
+	+	8	8
+	+	2	29
+	+	4	0
+	+	4	0
+	+	8	0
+	+	5	0
+	+	9	0
+	+	3	12
+
+> ~/Python3/oop_method.py
+	"	1	0
+	^	4	0
+	.	5	16
+	+	2	25
+	+	3	44
+	+	5	16
+
+> ~/oop_simplestclass.py
+	"	5	7
+	^	5	8
+	.	6	0
+	+	5	8
+	+	6	0
+
+> ~/image.csv
+	"	1	0
+
+> ~/Software-Engineering-2.0/pointers_arithmetic.c
+	"	1	0
+	^	26	41
+	.	26	20
+	+	1	18
+	+	8	14
+	+	9	1
+	+	10	10
+	+	15	16
+	+	16	16
+	+	17	12
+	+	18	16
+	+	28	12
+	+	28	45
+	+	22	0
+	+	23	1
+	+	22	11
+	+	24	1
+	+	25	33
+	+	19	33
+	+	29	0
+	+	25	19
+	+	29	0
+	+	25	41
+	+	26	20
+
+> ~/Software-Engineering-2.0/pad.c
+	"	11	31
+	^	11	32
+	.	11	32
+	+	1	18
+	+	6	35
+	+	7	38
+	+	9	51
+	+	11	77
+	+	13	103
+	+	14	56
+	+	7	8
+	+	7	20
+	+	8	8
+	+	10	8
+	+	12	16
+	+	14	51
+	+	14	15
+	+	15	18
+	+	17	8
+	+	12	0
+	+	16	0
+	+	18	0
+	+	13	54
+	+	14	52
+	+	11	32
+
+> ~/Software-Engineering-2.0/pa.c
+	"	1	0
+	^	12	18
+	.	13	0
+	+	1	18
+	+	7	1
+	+	8	50
+	+	10	67
+	+	12	56
+	+	14	94
+	+	16	90
+	+	14	83
+	+	16	105
+	+	17	72
+	+	20	17
+	+	10	30
+	+	14	85
+	+	16	109
+	+	6	12
+	+	6	0
+	+	7	20
+	+	8	27
+	+	9	41
+	+	10	27
+	+	10	38
+	+	12	18
+	+	12	51
+	+	16	0
+	+	16	61
+	+	18	16
+	+	20	9
+	+	20	9
+	+	22	0
+	+	8	20
+	+	8	20
+	+	9	34
+	+	11	8
+	+	13	8
+	+	14	33
+	+	14	33
+	+	14	33
+	+	12	37
+	+	12	1
+	+	13	0
+
+> ~/Software-Engineering-2.0/dsa.c
+	"	16	12
+	^	16	13
+	.	16	12
+	+	1	18
+	+	6	14
+	+	7	1
+	+	8	31
+	+	9	21
+	+	9	21
+	+	11	49
+	+	12	27
+	+	13	5
+	+	14	34
+	+	12	21
+	+	14	38
+	+	15	5
+	+	16	12
+
+> ~/Software-Engineering-2.0/arrays.c
+	"	17	42
+	^	17	43
+	.	17	42
+	+	1	18
+	+	3	10
+	+	4	1
+	+	5	49
+	+	9	26
+	+	8	48
+	+	10	5
+	+	11	65
+	+	15	28
+	+	16	5
+	+	17	42
+	+	19	12
+	+	9	22
+	+	17	42
+
+> ~/Software-Engineering-2.0/pointers.c
+	"	1	0
+	^	13	12
+	.	13	9
+	+	1	18
+	+	8	14
+	+	9	1
+	+	10	8
+	+	12	45
+	+	13	9
+
+> ~/.vimrc
+	"	7	17
+	^	7	18
+	.	7	8
+	+	7	8
+
 > ~/Software-Engineering-2.0/hello.c
-	"	5	22
-	^	5	23
-	.	5	22
+	"	3	7
+	^	3	8
+	.	3	8
 	+	1	18
 	+	3	15
 	+	4	1
 	+	5	22
+	+	3	8
+
+> ~/Betty/Betty/betty
+	"	20	3
+	^	20	4
+	.	20	3
+	+	1	11
+	+	4	65
+	+	5	26
+	+	7	25
+	+	8	25
+	+	9	21
+	+	11	21
+	+	12	31
+	+	13	9
+	+	3	38
+	+	16	25
+	+	17	47
+	+	18	42
+	+	19	40
+	+	20	3
+
+> ~/Software-Engineering-2.0/structs.c
+	"	1	17
+	^	1	18
+	.	19	18
+	+	1	18
+	+	2	19
+	+	5	1
+	+	6	15
+	+	8	11
+	+	11	55
+	+	12	1
+	+	13	22
+	+	17	23
+	+	18	32
+	+	21	16
+	+	25	1
+	+	36	0
+	+	22	1
+	+	36	0
+	+	26	22
+	+	28	38
+	+	18	29
+	+	28	46
+	+	29	21
+	+	30	15
+	+	31	46
+	+	32	47
+	+	33	50
+	+	34	12
+	+	19	18
+	+	14	39
+	+	15	21
+	+	16	18
+	+	17	21
+	+	18	22
+	+	19	18
+
+> ~/Software-Engineering-2.0/printfscanf.c
+	"	17	16
+	^	17	17
+	.	18	0
+	+	1	18
+	+	4	26
+	+	6	24
+	+	10	1
+	+	11	13
+	+	13	26
+	+	14	17
+	+	16	26
+	+	17	17
+	+	21	55
+	+	23	9
+	+	21	37
+	+	23	1
+	+	19	11
+	+	21	32
+	+	14	17
+	+	17	17
+	+	13	19
+	+	16	19
+	+	8	0
+	+	18	0
+
+> ~/Personal_Portfolio/portfolio
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/Software-Engineering-2.0/function_parameters.c
+	"	29	0
+	^	28	45
+	.	28	45
+	+	1	18
+	+	8	43
+	+	9	1
+	+	10	11
+	+	11	10
+	+	14	17
+	+	18	14
+	+	19	1
+	+	20	8
+	+	24	8
+	+	26	59
+	+	30	9
+	+	25	49
+	+	25	75
+	+	25	49
+	+	26	36
+	+	27	0
+	+	24	8
+	+	27	26
+	+	28	50
+	+	29	48
+	+	28	45
+
+> ~/Software-Engineering-2.0/sizeof.c
+	"	16	9
+	^	16	10
+	.	16	9
+	+	1	18
+	+	8	14
+	+	9	1
+	+	10	7
+	+	12	72
+	+	17	0
+	+	13	71
+	+	14	75
+	+	15	80
+	+	16	9
 
 > ~/zero_day/README.md
 	"	1	27
